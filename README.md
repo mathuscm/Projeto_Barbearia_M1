@@ -13,7 +13,7 @@ o curso de Data Analytics da Resilia Educação.
 ## Como usar
 
 1. Clone este repositório.
-2. É necessário que os arquivos func.py e main.py estejam baxados e na mesma pasta
+2. É necessário que os arquivos func.py e main.py estejam baixados e na mesma pasta
 3. Execute o main.py
 
 ## Funcionalidades
